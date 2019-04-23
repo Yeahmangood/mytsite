@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '97=4%f*@qiiltazx$5e@ubun)hsgxzk!%vl=6$_@bd#bloc%uc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['barbex.ddns.net', 'localhost', '192.168.1.18', '127.0.0.1']
 
